@@ -1,0 +1,1 @@
+﻿Nessa aula aprendemos a criar um repositório no github para guardar nossos projetos da mentoria
